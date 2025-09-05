@@ -25,8 +25,7 @@
 
 ## 🚀 Live Demo
 
-🌐 **[Coming Soon]**  
-Deploy this app on **Netlify** (frontend) and **Render / Railway** (backend) for free-tier hosting.
+🌐 https://ai-code-reviewer-eosin-chi.vercel.app/
 
 ---
 
