@@ -390,7 +390,7 @@ print(f"Result: {result}")`);
     setReview("");
     
     try {
-      const response = await fetch("https://ai-code-reviewer-lyx9.onrender.com", {
+      const response = await fetch("https://ai-code-reviewer-lyx9.onrender.com/ai/get-review", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ code })

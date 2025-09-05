@@ -4,7 +4,7 @@ const cors =  require('cors')
 const app = express()
 
 app.get("/", (req, res)=>{
-    res.send("Hello World, Chando")
+    res.send("ARUNKUMAR T")
 })
 
 app.use(express.json())
