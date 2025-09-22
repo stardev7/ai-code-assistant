@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/ARUNKUMART9968/AI-code-_reviewe" />
-  <img src="https://img.shields.io/github/languages/top/ARUNKUMART9968/AI-code-_reviewe" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ARUNKUMART9968.AI-code-reviewer" />
+ <img width="1365" height="919" alt="AI_Code_Reviewer" src="https://github.com/user-attachments/assets/cc6dd627-f11e-46bf-8bf0-8bce3b4d1b06" />
 </p>
 
 ---
