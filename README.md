@@ -1,6 +1,6 @@
 <h1 align="center">🤖 AI Code Reviewer</h1>
 <p align="center">
-  A powerful AI-powered tool to analyze, review, and improve your source code with real-time suggestions. Supports multiple languages and delivers clean, syntax-highlighted feedback using modern web technologies.
+  A powerful AI-powered assistant to analyze, review, and improve your source code with real-time suggestions. Supports multiple languages and delivers clean, syntax-highlighted feedback using modern web technologies.
 </p>
 
 <p align="center">
